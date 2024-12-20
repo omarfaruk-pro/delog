@@ -421,6 +421,7 @@ header {
   line-height: 1.33;
   margin-bottom: 20px;
   text-transform: capitalize;
+  color: var(--white);
 }
 .banner-content p {
   font-size: 20px;
