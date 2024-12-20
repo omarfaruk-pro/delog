@@ -259,6 +259,9 @@
   .job-details-row > div {
     width: 100% !important;
   }
+  .news-details-top h1 {
+    font-size: 40px;
+  }
 }
 
 @media (max-width: 767.98px) {
@@ -387,6 +390,19 @@
   .projectSlider {
     margin-top: -118px;
     padding-top: 166px;
+  }
+  .news-details-top h1 {
+    font-size: 30px;
+  }
+  .news-details-text h2 {
+    font-size: 24px;
+  }
+  .news-details-text blockquote .quote {
+    font-size: 18px;
+  }
+  .news-details-text h3 {
+    font-size: 20px;
+    margin-bottom: 12px;
   }
 }
 @media (max-width: 576px) {
@@ -683,5 +699,12 @@
     position: absolute;
     bottom: -12px;
     left: 0;
+  }
+  .news-featured-img {
+    margin: 40px 0;
+  }
+  .news-details-text p {
+    font-size: 16px;
+    margin-bottom: 24px;
   }
 }
