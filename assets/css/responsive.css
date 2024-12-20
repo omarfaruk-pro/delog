@@ -669,4 +669,19 @@
   div#close-menu img {
     width: 18px;
   }
+  .gt-content#ftl .custom-radio-wrap > div {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .gt-content#ftl .custom-radio-wrap label {
+    width: 47%;
+  }
+  .modal-design .disable-radio {
+    position: relative;
+  }
+  .modal-design .disable-radio p span {
+    position: absolute;
+    bottom: -12px;
+    left: 0;
+  }
 }
