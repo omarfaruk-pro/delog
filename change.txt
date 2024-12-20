@@ -1,0 +1,8 @@
+1. apply position modal --------------- done
+2. dropdown menu will be down----------- done
+3. Correct phone number 0322 2 11 09 64 ----------- done
+4. modal problem
+5. partner slider
+6. Port of Destionation (POD) font weight ------------- done
+7. service slider img quality ------ done
+8. svg icon------------  done
